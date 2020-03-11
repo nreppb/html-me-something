@@ -1,0 +1,110 @@
+
+
+img {
+    border: 10px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#kayak {
+    transform:rotate(270deg);
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+
+#Omar {
+    transform:rotate(90deg);
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+
+body {
+    background-color: #f4e1d2;
+    margin: 0px;
+}
+
+.special {
+
+    background-color: #f18973;
+    font-family: 'Sofia';
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+h1 {
+    background-color: #f18973;
+    font-family: 'Sofia';
+    font-size: 75px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0px;
+}
+
+
+h2 {
+    background-color: #b2b2b2;
+    font-family: 'Sofia';
+    font-size: 35px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0px;
+    
+}
+
+
+p {
+    font-family: 'Sofia';
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 50px;
+    margin: 0px;
+}
+
+.SectionParagraph {
+    background-color: #b2b2b2;
+    padding-top: 25px;
+    margin: 0px;
+}
+
+header {
+    background-image: url(https://image.shutterstock.com/image-vector/oriental-vector-damask-pattern-talavera-260nw-1599571603.jpg);
+    margin: 0 px;
+    font-family: 'Sofia';
+    text-align: center;
+    padding-bottom: 150px;
+}
+
+footer {
+    background-image: url(https://image.shutterstock.com/image-vector/oriental-vector-damask-pattern-talavera-260nw-1599571603.jpg);
+    margin: 0 px;
+    font-family: 'Sofia';
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+ul {    
+    list-style-type: none;
+    width:25%;
+    margin:auto;
+    padding:0;
+}
+
+li {
+    display: inline-block;
+    text-align:center;
+    font-family: 'Sofia';
+    
+    font-size: 25px;
+    font-weight: bold;
+
+}
